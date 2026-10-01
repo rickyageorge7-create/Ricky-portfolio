@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07162D"/>
+  <rect width="1200" height="630" fill="url(#paint0_linear_1_2)"/>
+  <rect x="0" y="240" width="1200" height="150" fill="#C81E1E"/>
+  <rect x="0" y="0" width="1200" height="210" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="70" y="70" width="170" height="170" rx="24" fill="#FFFFFF" fill-opacity="0.1"/>
+  <text x="90" y="207" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700">RAG</text>
+  <text x="70" y="340" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700">Ricky A. George</text>
+  <text x="70" y="410" fill="#EAF3FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500">Web builder • Student • Entrepreneur</text>
+  <text x="70" y="470" fill="#EAF3FF" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="500">Building useful tech products and companies from Liberia.</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F1F3A"/>
+      <stop offset="1" stop-color="#09182B"/>
+    </linearGradient>
+  </defs>
+</svg>
