@@ -182,7 +182,7 @@ export const projects = [
     screenshot: "lets-eat-screenshot.png",
     image: portfolioImages.letseat,
     featured: false,
-    visual: "FAQ",
+    visual: "Letseat",
   },
   {
     name: "Homelab",
