@@ -164,10 +164,21 @@ export const projects = [
     description:
       "Little Taco Shop is a multi-page restaurant website designed to present menu and brand information clearly. It was built as a practical frontend exercise in website structure and layout.",
     tools: ["HTML", "CSS", "Responsive website"],
-    link: "#",
+    link: "https://rickyageorge7-create.github.io/Taco/",
     screenshot: "little-taco-shop-screenshot.png",
     featured: false,
     visual: "TACO",
+  },
+  {
+    name: "Let's Eat",
+    shortName: "Let's Eat",
+    category: "Website",
+    description: "Visit the live page or jump to its FAQ section.",
+    tools: [],
+    link: "https://rickyageorge7-create.github.io/-lets-eat/#faq",
+    screenshot: "lets-eat-screenshot.png",
+    featured: false,
+    visual: "FAQ",
   },
   {
     name: "Homelab",
